@@ -87,3 +87,28 @@ Para ejecutar este ejercicio deberas realizar lo siguiente
 
 A continuación puedes ver imagenes del resultado esperado
 
+![](https://github.com/hugoescalpelo/mqtt-chat-publico/blob/main/im%C3%A1genes/img04.png?raw=true)
+
+![](https://github.com/hugoescalpelo/mqtt-chat-publico/blob/main/im%C3%A1genes/img05.png?raw=true)
+
+# FAQ
+
+- __P. ¿Para que necesito saber la IP del host? R.__ En ocasiones algunos programas como OpenHab o NodeRed no actualizan automáticamente las IP's de un host. Una vez que se colocan, asumen que no cambiarán. En este caso, dado que los brokers publicos cambian constantemente de IP's como parte de su modelo de negocio, es importante saber obtener las nuevas IP's.
+
+# Compatibilidad
+
+- Este curso debería ser compatible con todas las distribuciones de Linux basadas en Debian. Se han comprobado las siguientes versiones
+    - Ubuntu 18.04 LTS
+    - Ubuntu 20.04 LTS
+    - Ubuntu 22.04 LTS
+    - Raspbian
+    - Raspberry Pi OS
+
+- Este curso debería ser compatible con todas las distribuciones en las que se pueda instalar mosquitto.
+
+# Créditos
+
+Desarrollado por Hugo Escalpelo el 9 de mayo de 2023
+- [hugoescalpelo.com](https://hugoescalpelo.com/)
+- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
+- [GitHub](https://github.com/hugoescalpelo)
